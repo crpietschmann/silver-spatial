@@ -1,0 +1,79 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverSpatial", "SilverSpatial\SilverSpatial.csproj", "{9F0CB4FA-B86A-46F8-B62B-BF42FFAC0568}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverSpatialDemo", "SilverSpatialDemo\SilverSpatialDemo.csproj", "{4B12F8E1-4419-4BAA-A5A6-8E4C19FCFA6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverSpatialDemo.Web", "SilverSpatialDemo.Web\SilverSpatialDemo.Web.csproj", "{5D519E71-2DB8-4B6F-B18D-F46C5DB4CDB8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9E7EB4C3-407B-4EEA-9409-8AD5338A1847}"
+	ProjectSection(SolutionItems) = preProject
+		License.txt = License.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverSpatial.Test", "SilverSpatial.Test\SilverSpatial.Test.csproj", "{06DBFFE2-06B0-413D-A38B-CD03D534F616}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverSpatial.Test.Web", "SilverSpatial.Test.Web\SilverSpatial.Test.Web.csproj", "{F70A99D7-7CC5-49E9-95A3-4C6F96F3B92C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverSpatial.Microsoft", "SilverSpatial.Microsoft\SilverSpatial.Microsoft.csproj", "{716331F2-6E8A-4B9F-8E9E-05AD6B183FAE}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 7
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs09
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = SilverSpatial\\SilverSpatial.csproj
+		SccProjectName1 = SilverSpatial
+		SccLocalPath1 = SilverSpatial
+		SccProjectUniqueName2 = SilverSpatialDemo.Web\\SilverSpatialDemo.Web.csproj
+		SccProjectName2 = SilverSpatialDemo.Web
+		SccLocalPath2 = SilverSpatialDemo.Web
+		SccProjectUniqueName3 = SilverSpatialDemo\\SilverSpatialDemo.csproj
+		SccProjectName3 = SilverSpatialDemo
+		SccLocalPath3 = SilverSpatialDemo
+		SccProjectUniqueName4 = SilverSpatial.Test\\SilverSpatial.Test.csproj
+		SccProjectName4 = SilverSpatial.Test
+		SccLocalPath4 = SilverSpatial.Test
+		SccProjectUniqueName5 = SilverSpatial.Test.Web\\SilverSpatial.Test.Web.csproj
+		SccProjectName5 = SilverSpatial.Test.Web
+		SccLocalPath5 = SilverSpatial.Test.Web
+		SccProjectUniqueName6 = SilverSpatial.Microsoft\\SilverSpatial.Microsoft.csproj
+		SccProjectName6 = SilverSpatial.Microsoft
+		SccLocalPath6 = SilverSpatial.Microsoft
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F0CB4FA-B86A-46F8-B62B-BF42FFAC0568}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F0CB4FA-B86A-46F8-B62B-BF42FFAC0568}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F0CB4FA-B86A-46F8-B62B-BF42FFAC0568}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F0CB4FA-B86A-46F8-B62B-BF42FFAC0568}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B12F8E1-4419-4BAA-A5A6-8E4C19FCFA6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B12F8E1-4419-4BAA-A5A6-8E4C19FCFA6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B12F8E1-4419-4BAA-A5A6-8E4C19FCFA6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B12F8E1-4419-4BAA-A5A6-8E4C19FCFA6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D519E71-2DB8-4B6F-B18D-F46C5DB4CDB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D519E71-2DB8-4B6F-B18D-F46C5DB4CDB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D519E71-2DB8-4B6F-B18D-F46C5DB4CDB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D519E71-2DB8-4B6F-B18D-F46C5DB4CDB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06DBFFE2-06B0-413D-A38B-CD03D534F616}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06DBFFE2-06B0-413D-A38B-CD03D534F616}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06DBFFE2-06B0-413D-A38B-CD03D534F616}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06DBFFE2-06B0-413D-A38B-CD03D534F616}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F70A99D7-7CC5-49E9-95A3-4C6F96F3B92C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F70A99D7-7CC5-49E9-95A3-4C6F96F3B92C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F70A99D7-7CC5-49E9-95A3-4C6F96F3B92C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F70A99D7-7CC5-49E9-95A3-4C6F96F3B92C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{716331F2-6E8A-4B9F-8E9E-05AD6B183FAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{716331F2-6E8A-4B9F-8E9E-05AD6B183FAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{716331F2-6E8A-4B9F-8E9E-05AD6B183FAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{716331F2-6E8A-4B9F-8E9E-05AD6B183FAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
